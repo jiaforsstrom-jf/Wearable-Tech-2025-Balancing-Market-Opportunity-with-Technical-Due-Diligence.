@@ -10,6 +10,9 @@ This project evaluates the Q2 2025 wearable market. By combining Tableau’s mar
 I utilized Tableau to identify "White Spaces" and prioritize our product roadmap. 
 
 ![Tableau Dashboard](Wearables 2025_ Strategic Expansion & Roadmap Prioritization.png)
+![Tableau Dashboard](Wearable_2025_Strategic_Expansion_&_Roadmap_Prioritization.png)
+
+
 
 **Key Insights:**
 * **The Gold Mine:** Smart Rings show high consumer satisfaction and market expansion potential.
