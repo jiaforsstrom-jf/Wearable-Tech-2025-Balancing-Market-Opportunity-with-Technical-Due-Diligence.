@@ -9,8 +9,7 @@ This project evaluates the Q2 2025 wearable market. By combining Tableau’s mar
 ## 📊 Phase 1: Market Vision (Tableau)
 I utilized Tableau to identify "White Spaces" and prioritize our product roadmap. 
 
-![Tableau Dashboard](Wearable_2025_Strategic_Expansion_&_Roadmap_Prioritization.png)
-
+![Tableau Dashboard](Wearables_2025_Strategic_Expansion_&_Roadmap_Prioritization.png)
 
 
 **Key Insights:**
@@ -25,7 +24,7 @@ To mitigate investment risk, I performed a technical audit to stress-test the ha
 ### 1. The Clinical Trust Index
 I engineered a custom index weighting **Heart Rate Accuracy (70%)** against **User Satisfaction (30%)**.
 
-![Scatter Plot Audit](Clinical_Trust_Index_By_Brand_.png)
+![Scatter Plot Audit](Clinical_Trust_Index_By_Brand.png)
 
 **Audit Finding:** High price correlates with clinical trust. Smart Rings, despite their high cost, still sit in a lower "Trust Cluster" compared to established Smartwatches.
 
