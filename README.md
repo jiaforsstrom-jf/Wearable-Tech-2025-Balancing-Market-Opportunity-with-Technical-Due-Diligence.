@@ -32,7 +32,6 @@ I engineered a custom index weighting **Heart Rate Accuracy (70%)** against **Us
 ### 2. The Ecosystem Tax (Apple Tax)
 I investigated if the price premium for iOS-exclusive devices is backed by technical superiority.
 
-![Ecosystem Audit](Ecosystem_auditing.png)
 ![Ecosystem Audit](The_apple_tax_audit.png)
 ![Ecosystem Audit](Ecosystem_auditing.png)
 **Audit Finding:** iOS users pay a **53% price premium** for a marginal **1.5% gain** in accuracy. The high satisfaction is driven by ecosystem "Halo Effects" rather than technical lead.
