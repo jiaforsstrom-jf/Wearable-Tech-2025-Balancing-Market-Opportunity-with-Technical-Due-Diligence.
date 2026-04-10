@@ -24,7 +24,7 @@ To mitigate investment risk, I performed a technical audit to stress-test the ha
 ### 1. The Clinical Trust Index
 I engineered a custom index weighting **Heart Rate Accuracy (70%)** against **User Satisfaction (30%)**.
 
-![Scatter Plot Audit](Clinical_Trust.png)
+![Scatter Plot Audit](Trust.png)
 
 **Audit Finding:** High price correlates with clinical trust. Smart Rings, despite their high cost, still sit in a lower "Trust Cluster" compared to established Smartwatches.
 
