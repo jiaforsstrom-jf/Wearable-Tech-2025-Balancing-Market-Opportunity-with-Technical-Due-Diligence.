@@ -35,7 +35,6 @@ A Market_Analysis: Price vs. Clincal Reliablity
 ### 2. The Ecosystem Tax (Apple Tax)
 I investigated if the price premium for iOS-exclusive devices is backed by technical superiority.
 
-![Ecosystem Audit](The_apple_tax_audit.png)
 ![Ecosystem Audit](Ecosystem_auditing.png)
 ![Ecosystem Audit](Ecosystem.png)
 **Audit Finding:** iOS users pay a **53% price premium** for a marginal **1.5% gain** in accuracy. The high satisfaction is driven by ecosystem "Halo Effects" rather than technical lead.
