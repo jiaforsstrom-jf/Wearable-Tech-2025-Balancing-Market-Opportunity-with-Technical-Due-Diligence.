@@ -9,7 +9,7 @@ This project evaluates the Q2 2025 wearable market. By combining Tableau’s mar
 ## 📊 Phase 1: Market Vision (Tableau)
 I utilized Tableau to identify "White Spaces" and prioritize our product roadmap. 
 
-![Tableau Dashboard](Wearables_2025_Strategic_Expansion_&_Roadmap_Prioritization.png)
+![Tableau Dashboard](Wearables.png)
 
 
 **Key Insights:**
@@ -24,15 +24,20 @@ To mitigate investment risk, I performed a technical audit to stress-test the ha
 ### 1. The Clinical Trust Index
 I engineered a custom index weighting **Heart Rate Accuracy (70%)** against **User Satisfaction (30%)**.
 
-![Scatter Plot Audit](Clinical_Trust_Index_By_Brand.png)
+![Scatter Plot Audit](Clinical_Trust.png)
 
 **Audit Finding:** High price correlates with clinical trust. Smart Rings, despite their high cost, still sit in a lower "Trust Cluster" compared to established Smartwatches.
+
+A Market_Analysis: Price vs. Clincal Reliablity
+
+![Scatter Plot Audit](Market.png)
 
 ### 2. The Ecosystem Tax (Apple Tax)
 I investigated if the price premium for iOS-exclusive devices is backed by technical superiority.
 
 ![Ecosystem Audit](The_apple_tax_audit.png)
 ![Ecosystem Audit](Ecosystem_auditing.png)
+![Ecosystem Audit](Ecosystem.png)
 **Audit Finding:** iOS users pay a **53% price premium** for a marginal **1.5% gain** in accuracy. The high satisfaction is driven by ecosystem "Halo Effects" rather than technical lead.
 
 ---
